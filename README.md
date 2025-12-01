@@ -1,6 +1,6 @@
 # Hi, Welcome! I'm Ceina Ellison 👋🏾
 
-I’m currently completing my undergraduate degree in Applied Computer Science, with a focus on Software Engineering and leveraging technology to drive positive change.
+I’m currently completing my undergraduate degree in Computer Science, with a focus on Software Engineering and leveraging technology to drive positive change.
 
 My career path has been diverse, including roles in sales and administration, but my passion has always been rooted in web development and application engineering. I have hands-on experience with various programming languages, libraries, and frameworks, and I’m dedicated to building impactful applications that address real-world challenges.
 
