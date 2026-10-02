@@ -8,6 +8,5 @@ Alongside my technical studies, I hold a Bachelor’s degree in Human Resource M
 
 
 ## Let's Connect!
-Email: <a href="ceina.ellison@gmail.com">Ceina.ellison@gmail.com</a><br>
 Profile: <a href="https://www.linkedin.com/in/ceinaellison" rel="nofollow" target="_blank">Linkedin</a>
 
